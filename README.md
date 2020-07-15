@@ -8,6 +8,7 @@ So, inorder to reclaim my precious time, i made a digital twin of mine using AI.
 It can listen and react to shitty questions like "roll no 56 did you get it?" with "yes"
 And "I'm having trouble hearing you!" to questions which it doesn't understand.
 Guess what, it even cycles through still shots of mine while speaking with choppy fashion, Definately I'm having internet issue!!
+Go talk with my twin!! https://notacoderbro.github.io/ZoomBot/
 
 ## Conclusion
 Saved my precious time.
